@@ -4,8 +4,8 @@
     composer update
 
 2:- generate a env file and key. for that please fire below command:-
-    - cp .env.example .env
-    - php artisan key:generate
+    for generating env file:- cp .env.example .env
+    for generating key:- php artisan key:generate
 
 3:- create a database into mysql
     go to .env file and add the databse name, username and password.
