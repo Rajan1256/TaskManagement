@@ -1,7 +1,7 @@
 # TaskManagement
 
 1:- intsall a composer using below command:-
-    - composer update
+    composer update
 
 2:- generate a env file and key. for that please fire below command:-
     - cp .env.example .env
